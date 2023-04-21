@@ -1,0 +1,28 @@
+{
+  "welcome": "Salutare!",
+  "seconds": "secunde",
+  "footer": {
+    "footerDescription": "Casa animalelor tale epice."
+  },
+  "forms": {
+    "emailnotvalid": "Va rugam introduceti o adresa valida de mail.",
+    "password": "Parola trebuie sa contina cel putin 5 caractere.",
+    "register": {
+      "errors": {
+        "firstName": "Te rugam sa introduci nume.",
+        "lastName": "Te rugam sa introduci prenume.",
+        "userexists": "Exista deja un cont asociat aceste adrese de mail.",
+        "passshort": "Parola este prea scurta."
+      },
+      "submit": "Creare cont",
+      "accountcreated": "Contul a fost creat cu succes, va rugam sa va autentificati, vei fi redictionat in"
+    },
+    "login": {
+      "errors": {
+        "password": "Parola nu este corecta.",
+        "usernotfound": "Nu exista un cont asociat acestei adrese de mail."
+      },
+      "submit": "Logare"
+    }
+  }
+}

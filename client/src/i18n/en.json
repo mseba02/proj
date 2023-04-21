@@ -1,0 +1,28 @@
+{
+  "welcome": "Hi!",
+  "seconds": "seconds",
+  "footer": {
+    "footerDescription": "The home of your epic pets."
+  },
+  "forms": {
+    "emailnotvalid": "Please enter a valid email address.",
+    "password": "Password must contains at least 5 characters.",
+    "register": {
+      "errors": {
+        "firstName": "Please enter your first name.",
+        "lastName": "Please enter your last name.",
+        "userexists": "User already exists.",
+        "passshort": "Password too short."
+      },
+      "submit": "Create account",
+      "accountcreated": "Account succesfully created, please login, you will be redirected in"
+    },
+    "login": {
+      "errors": {
+        "password": "Password is incorrect.",
+        "usernotfound": "User not found."
+      },
+      "submit": "Login"
+    }
+  }
+}
